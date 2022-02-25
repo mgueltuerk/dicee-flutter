@@ -30,7 +30,3 @@ samples, guidance on mobile development, and a full API reference.
 ## WEB
 
 ![Alt-Text](/screenshots/dicee_web.png)
-
-## WINDOWS
-
-![Alt-Text](/screenshots/dicee_windows.png)
