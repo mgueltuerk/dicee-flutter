@@ -17,16 +17,16 @@ samples, guidance on mobile development, and a full API reference.
 
 ## IOS
 
-![Alt-Text](/screenshots/dicee_ios.png)
+![Alt-Text](/screenshots/dicee_ios_.png)
 
 ## ANDROID
 
-![Alt-Text](/screenshots/dicee_android.png)
+![Alt-Text](/screenshots/dicee_android_.png)
 
 ## MACOS
 
-![Alt-Text](/screenshots/dicee_macos.png)
+![Alt-Text](/screenshots/dicee_macos_.png)
 
 ## WEB
 
-![Alt-Text](/screenshots/dicee_web.png)
+![Alt-Text](/screenshots/dicee_web_.png)
